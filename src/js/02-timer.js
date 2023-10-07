@@ -10,7 +10,7 @@ let currentDate = null;
 
 const calendar = document.querySelector('#datetime-picker');
 const startBtn = document.querySelector('[data-start-timer]');
-startBtn.disabled = true;
+
 
 Report.info(
     '👋 Greeting, my Friend!',
