@@ -1,3 +1,5 @@
+import '../css/common.css'
+
 const CHANGE_COLOR_DELAY = 1000;
 let idInt = null;
 
